@@ -11,4 +11,13 @@ public class SendFactory {
             return null;
         }
     }
+
+    //静态工厂方法模式，不需要创建实例，直接调用即可
+    public static Sender produceMail(){
+        return new MailSender();
+    }
+
+    public static Sender produceSms(){
+        return new SmsSender();
+    }
 }

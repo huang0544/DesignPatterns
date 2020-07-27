@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c3ac870-a03a-4aa1-8670-d12083c06a57" name="Default Changelist" comment="" />
+    <list default="true" id="5c3ac870-a03a-4aa1-8670-d12083c06a57" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/FactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/FactoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/MailSender.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/MailSender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/SendFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/SendFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/Sender.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/Sender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/SmsSender.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/SmsSender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/hjj/Factory/Method/SendFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hjj/Factory/Method/SendFactory.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,6 +44,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="hjj" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
   <component name="ProjectId" id="1fB95WSjR2OLFC50AfdE0KlhAhY" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -39,6 +60,8 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="E:/学习/Java后端/JavaWeb/29.会员版(2.0)-就业课(2.0)-黑马旅游网/day28_综合案例4/代码/MyBlog" />
@@ -113,38 +136,59 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser" timestamp="1595688362679">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="765" y="230" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1595688362679" />
+    <state x="529" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1595811232012">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="529" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595811232012" />
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1595817796753">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595817796753" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1595742581669">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1595742581669" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1595689275154">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1595817252219">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595817252219" />
     <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1595689275154" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1595689275154">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1595817252219">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595817252219" />
     <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1595689275154" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1595689275154">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1595817252218">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595817252218" />
     <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1595689275154" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1595689275154">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1595817252219">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595817252219" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595689275154" />
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1595742558357">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595742558357" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1595689145803">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595817709695">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595817709695" />
+    <state x="443" y="158" width="672" height="475" key="search.everywhere.popup" timestamp="1595817672644">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="443" y="158" width="672" height="475" key="search.everywhere.popup/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595817672644" />
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1595689145803" />
   </component>
 </project>
