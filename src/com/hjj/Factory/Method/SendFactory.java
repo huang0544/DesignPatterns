@@ -1,6 +1,7 @@
 package com.hjj.Factory.Method;
 
 public class SendFactory {
+    //1.普通工厂方法模式，就是建立一个工厂类，对实现了同一接口的一些类进行实例的创建
     public Sender produce(String type) {
         if ("mail".equals(type)) {
             return new MailSender();
@@ -12,7 +13,16 @@ public class SendFactory {
         }
     }
 
-    //静态工厂方法模式，不需要创建实例，直接调用即可
+    //2.多个工厂方法模式
+//    public Sender produceMail(){
+//        return new MailSender();
+//    }
+//
+//    public Sender produceSms(){
+//        return new SmsSender();
+//    }
+
+    //3.静态工厂方法模式，不需要创建实例，直接调用即可
     public static Sender produceMail(){
         return new MailSender();
     }

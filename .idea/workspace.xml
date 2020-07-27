@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5c3ac870-a03a-4aa1-8670-d12083c06a57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/FactoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/FactoryTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/MailSender.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/MailSender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/SendFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/SendFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/Sender.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/Sender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/SmsSender.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Factory/Method/SmsSender.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesignPatterns/com/hjj/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/hjj/Factory/Method/SendFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hjj/Factory/Method/SendFactory.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +63,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager" selected="Application.FactoryTest">
     <configuration name="FactoryTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -97,8 +90,8 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.FactoryTest" />
+      <item itemvalue="Application.Main" />
     </list>
     <recent_temporary>
       <list>
@@ -131,6 +124,14 @@
       <workItem from="1595680439650" duration="2108000" />
       <workItem from="1595742385669" duration="197000" />
     </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1595818013876</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1595818013876</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -149,10 +150,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="529" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595811232012" />
-    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1595817796753">
+    <state x="321" y="0" key="CommitChangelistDialog2" timestamp="1595818011419">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595817796753" />
+    <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595818011419" />
     <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1595742581669">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -177,14 +178,23 @@
     </state>
     <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595817252219" />
     <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1595689275154" />
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1595742558357">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595742558357" />
-    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595817709695">
+    <state x="184" y="6" key="SettingsEditor" timestamp="1595820347934">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595817709695" />
+    <state x="184" y="6" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595820347934" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1595818058919">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595818058919" />
+    <state x="455" y="241" key="com.intellij.ide.util.TipDialog" timestamp="1595820527996">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="455" y="241" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595820527996" />
+    <state x="640" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1595742558357" />
+    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1595835582470">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="475" y="281" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1595835582469" />
     <state x="443" y="158" width="672" height="475" key="search.everywhere.popup" timestamp="1595817672644">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
