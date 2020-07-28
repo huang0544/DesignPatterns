@@ -28,6 +28,6 @@ public class SendFactory {
     }
 
     public static Sender produceSms(){
-        return new SmsSender();
+        return new WeChatSender();
     }
 }

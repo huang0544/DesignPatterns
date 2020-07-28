@@ -1,4 +1,4 @@
-package com.hjj.Factory.Method;
+package com.hjj.Factory.Abstract;
 
 public class MailSender implements Sender {
     @Override
