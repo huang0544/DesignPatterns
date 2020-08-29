@@ -20,12 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5c3ac870-a03a-4aa1-8670-d12083c06a57" name="Default Changelist" comment="DesignPatterns">
-      <change afterPath="$PROJECT_DIR$/src/com/hjj/Singleton/Singleton3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hjj/Singleton/Singleton4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hjj/Singleton/StaticInnerClassSingleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/hjj/Singleton/SynchronizedSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/hjj/Singleton/Singleton5.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/hjj/Singleton/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/hjj/Singleton/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -172,7 +168,8 @@
       <workItem from="1596535252543" duration="212000" />
       <workItem from="1596535700630" duration="72000" />
       <workItem from="1598264471841" duration="3596000" />
-      <workItem from="1598436921397" duration="4828000" />
+      <workItem from="1598436921397" duration="4908000" />
+      <workItem from="1598661893832" duration="3210000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1595818013876</created>
@@ -223,7 +220,14 @@
       <option name="project" value="LOCAL" />
       <updated>1598437266911</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="DesignPatterns">
+      <created>1598442912174</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1598442912174</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,10 +299,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="6" key="SettingsEditor/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1598438308209" />
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1598437296805">
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2" timestamp="1598442928631">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1598437296805" />
+    <state x="275" y="97" key="Vcs.Push.Dialog.v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1598442928631" />
     <state x="2006" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1596416336262">
       <screen x="1366" y="0" width="1920" height="1040" />
     </state>
