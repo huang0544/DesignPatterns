@@ -140,8 +140,8 @@
     <list>
       <item itemvalue="Application.FactoryTest" />
       <item itemvalue="Application.Main (1)" />
-      <item itemvalue="Application.Main (2)" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Main (2)" />
     </list>
     <recent_temporary>
       <list>
@@ -170,9 +170,6 @@
       <workItem from="1598264471841" duration="3596000" />
       <workItem from="1598436921397" duration="4908000" />
       <workItem from="1598661893832" duration="3210000" />
-      <workItem from="1607223376868" duration="94000" />
-      <workItem from="1609582015548" duration="1295000" />
-      <workItem from="1609641570062" duration="4832000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1595818013876</created>
@@ -255,13 +252,9 @@
     <option name="LAST_COMMIT_MESSAGE" value="DesignPatterns" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="406" y="86" key="#com.intellij.ide.util.MemberChooser" timestamp="1609642923082">
-      <screen x="0" y="0" width="1200" height="760" />
+    <state x="476" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609845615671">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="406" y="86" key="#com.intellij.ide.util.MemberChooser/0.0.1200.760@0.0.1200.760" timestamp="1609642923082" />
-    <state x="398" y="294" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1609649720945">
-      <screen x="0" y="0" width="1200" height="760" />
-    </state>
-    <state x="398" y="294" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1200.760@0.0.1200.760" timestamp="1609649720945" />
+    <state x="476" y="277" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728/1366.0.1920.1040@0.0.1366.728" timestamp="1609845615671" />
   </component>
 </project>
